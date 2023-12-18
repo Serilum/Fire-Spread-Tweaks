@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Fire%20Spread%20Tweaks"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Fire%20Spread%20Tweaks"
 logoFile="icon.png"
 
 [[mods]]
 modId="firespreadtweaks"
-version="2.4"
+version="2.5"
 displayName="Fire Spread Tweaks"
-displayURL="https://curseforge.com/minecraft/mc-mods/fire-spread-tweaks"
+displayURL="https://serilum.com/mod/fire-spread-tweaks"
 authors="Rick South"
 description='''Disables the default firespread, but does make fire go out on its own after a configurable delay.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.firespreadtweaks]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.3,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.firespreadtweaks]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.1]"
     ordering="NONE"
