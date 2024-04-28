@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="firespreadtweaks"
-version="2.5"
+version="2.6"
 displayName="Fire Spread Tweaks"
 displayURL="https://serilum.com/mod/fire-spread-tweaks"
 authors="Rick South"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.firespreadtweaks]]
     modId="collective"
     mandatory=true
-    versionRange="[7.53,)"
+    versionRange="[7.54,)"
     ordering="NONE"
     side="BOTH"
 
