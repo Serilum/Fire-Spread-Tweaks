@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "firespreadtweaks",
+  "version": "2.5",
+
+  "name": "Fire Spread Tweaks",
+  "description": "Disables the default firespread, but does make fire go out on its own after a configurable delay.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/fire-spread-tweaks",
+    "sources": "https://github.com/Serilum/Fire-Spread-Tweaks",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Fire%20Spread%20Tweaks"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.firespreadtweaks.ModFabric" ], "modmenu": [ "com.natamus.firespreadtweaks.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.12.5",
+    "fabric": "*",
+    "minecraft": ">=1.20",
+    "java": ">=17",
+    "collective": ">=7.53"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " BirdieMiner",
+	  " Cherriesaurus",
+	  " Jack",
+	  " Jeremy Langford",
+	  " Michael W. S.",
+	  " pepe1191",
+	  " Shana Gitnick",
+	  " Tyler Behl"
+  ]
+}
