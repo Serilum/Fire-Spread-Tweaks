@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "firespreadtweaks",
-  "version": "2.6",
+  "version": "2.7",
 
   "name": "Fire Spread Tweaks",
   "description": "Disables the default firespread, but does make fire go out on its own after a configurable delay.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=21",
-    "collective": ">=7.55"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -44,12 +44,9 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jack",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " pepe1191",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
