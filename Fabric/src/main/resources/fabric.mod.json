@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "firespreadtweaks",
+  "version": "2.8",
+
+  "name": "Fire Spread Tweaks",
+  "description": "Disables the default firespread, but does make fire go out on its own after a configurable delay.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/fire-spread-tweaks",
+    "sources": "https://github.com/Serilum/Fire-Spread-Tweaks",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Fire%20Spread%20Tweaks"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.firespreadtweaks.ModFabric" ], "modmenu": [ "com.natamus.firespreadtweaks.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "fabric-api": "*",
+    "minecraft": ">=26.1",
+    "java": ">=25",
+    "collective": ">=8.17"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://serilum.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " akanealw",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " MWS",
+	  " t128",
+	  " Tyler Behl",
+	  " XAgent",
+	  " ตัวตรึง พระนคร"
+  ]
+}
