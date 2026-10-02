@@ -1,8 +1,8 @@
-package com.natamus.firespreadtweaks.events;
+package com.serilum.firespreadtweaks.events;
 
 import com.natamus.collective.functions.BlockFunctions;
 import com.natamus.collective.functions.HashMapFunctions;
-import com.natamus.firespreadtweaks.util.Util;
+import com.serilum.firespreadtweaks.util.Util;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.server.level.ServerLevel;
@@ -40,7 +40,7 @@ public class FireSpreadEvent {
 				if (fireblock instanceof FireBlock) {
 					level.setBlockAndUpdate(firepos, Blocks.AIR.defaultBlockState());
 				}
- 				continue;
+				continue;
 			}
 			
 			ticksleft.put(firepos, tl);

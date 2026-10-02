@@ -1,10 +1,10 @@
-package com.natamus.firespreadtweaks;
+package com.serilum.firespreadtweaks;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.firespreadtweaks.forge.config.IntegrateForgeConfig;
-import com.natamus.firespreadtweaks.forge.events.ForgeFireSpreadEvent;
-import com.natamus.firespreadtweaks.util.Reference;
+import com.serilum.firespreadtweaks.forge.config.IntegrateForgeConfig;
+import com.serilum.firespreadtweaks.forge.events.ForgeFireSpreadEvent;
+import com.serilum.firespreadtweaks.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeFireSpreadEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeFireSpreadEvent.class);
 	}
 
 	private static void setGlobalConstants() {

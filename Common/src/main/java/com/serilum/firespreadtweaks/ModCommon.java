@@ -1,6 +1,6 @@
-package com.natamus.firespreadtweaks;
+package com.serilum.firespreadtweaks;
 
-import com.natamus.firespreadtweaks.config.ConfigHandler;
+import com.serilum.firespreadtweaks.config.ConfigHandler;
 
 public class ModCommon {
 

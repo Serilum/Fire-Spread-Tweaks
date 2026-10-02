@@ -1,7 +1,7 @@
-package com.natamus.firespreadtweaks.config;
+package com.serilum.firespreadtweaks.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.firespreadtweaks.util.Reference;
+import com.serilum.firespreadtweaks.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,7 +1,7 @@
-package com.natamus.firespreadtweaks.forge.config;
+package com.serilum.firespreadtweaks.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.firespreadtweaks.util.Reference;
+import com.serilum.firespreadtweaks.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

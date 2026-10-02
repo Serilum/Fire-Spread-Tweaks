@@ -1,11 +1,11 @@
-package com.natamus.firespreadtweaks;
+package com.serilum.firespreadtweaks;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
 import com.natamus.collective.fabric.callbacks.CollectiveWorldEvents;
-import com.natamus.firespreadtweaks.events.FireSpreadEvent;
-import com.natamus.firespreadtweaks.util.Reference;
+import com.serilum.firespreadtweaks.events.FireSpreadEvent;
+import com.serilum.firespreadtweaks.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerWorldEvents;

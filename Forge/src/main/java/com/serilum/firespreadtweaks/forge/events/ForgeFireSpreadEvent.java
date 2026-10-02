@@ -1,7 +1,7 @@
-package com.natamus.firespreadtweaks.forge.events;
+package com.serilum.firespreadtweaks.forge.events;
 
 import com.natamus.collective.functions.WorldFunctions;
-import com.natamus.firespreadtweaks.events.FireSpreadEvent;
+import com.serilum.firespreadtweaks.events.FireSpreadEvent;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.level.Level;
 import net.minecraftforge.event.TickEvent.LevelTickEvent;

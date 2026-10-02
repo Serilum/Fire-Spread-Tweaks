@@ -1,7 +1,7 @@
-package com.natamus.firespreadtweaks.util;
+package com.serilum.firespreadtweaks.util;
 
 import com.natamus.collective.data.GlobalVariables;
-import com.natamus.firespreadtweaks.config.ConfigHandler;
+import com.serilum.firespreadtweaks.config.ConfigHandler;
 
 public class Util {
 	public static int getFireBurnDurationInTicks() {
