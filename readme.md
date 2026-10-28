@@ -1,5 +1,5 @@
 <h2>Fire Spread Tweaks</h2>
-<p><a href="https://github.com/Serilum/Fire-Spread-Tweaks"><img src="https://serilum.com/assets/images/logo/fire-spread-tweaks.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Fire-Spread-Tweaks"><img src="https://workflow.serilum.com/web/logo/128/fire-spread-tweaks.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Fire Spread Tweaks on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/fire-spread-tweaks">https://curseforge.com/minecraft/mc-mods/fire-spread-tweaks</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/fire-spread-tweaks">https://modrinth.com/mod/fire-spread-tweaks</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
